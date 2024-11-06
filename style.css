@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+
+}
+div{
+    height: 200px;
+    width: 380px;
+    border: 1px solid black;
+    margin: auto;
+}
+
+@media( width:  400px    ){
+    body{
+        background-color: pink;
+    }
+}
